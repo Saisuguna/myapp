@@ -8,12 +8,12 @@
     <repository>
         <id>central</id>
         <name>Artifactory-Production-releases</name>
-        <url>http://artifactory.internal.t-mobile.com:8081/artifactory/docker-test-local</url>
+        <url></url>
     </repository>
     <snapshotRepository>
         <id>central</id>
         <name>Artifactory-Production-snapshots</name>
-        <url>http://artifactory.internal.t-mobile.com:8081/artifactory/docker-test-local</url>
+        <url>/url>
     </snapshotRepository>
 </distributionManagement>
     	<build>
